@@ -21,7 +21,6 @@ DL,Brandon Williams,29,2013,87,88,89,87,85,86,10.5,5
 LB,Chris Board,23,2018,78,74,74,73,73,75,4.5,1
 LB,Tyus Bowser,23,2017,73,75,72,70,72,68,1.4,4
 LB,L.J. Fort,28,2012,79,76,75,75,73,75,3.7,2
-LB,Ufomba Kamalu,23,2018,75,68,73,74,72,70,1.0,3
 LB,Matthew Judon,25,2016,90,84,85,86,85,85,10.6,1
 LB,Jaylon Ferguson,25,2018,79,75,76,76,74,77,1.0,1
 LB,Otaro Alaka,24,2017,69,73,74,72,70,68,2.0,2
@@ -140,7 +139,7 @@ LB,Josh Bynes,29,2011,80,77,82,78,80,76,1.9,3
 LB,Brady Sheldon,24,2017,65,67,69,66,70,69,1.0,2
 OL,Trey Hopkins,26,2014,78,77,76,87,79,79,0.5,2
 OL,Billy Price,23,2018,79,79,81,85,81,79,2.9,4
-OL,Alex Redmond,23,2017,66,58,77,66,82,71,0.5,2
+OL,Alex Redmond,23,2017,76,58,77,76,75,71,0.5,2
 OL,Xavier Su'a-Filo,27,2014,79,76,82,80,80,78,0.6,2
 OL,Fred Johnson,24,2018,53,69,64,69,69,73,0.5,2
 OL,Michael Jordan,25,2016,66,60,70,68,71,71,0.6,4
@@ -591,7 +590,7 @@ S,Khari Willis,25,2018,78,75,78,75,74,74,0.6,2
 S,Rolan Milligan,24,2018,70,72,69,67,70,66,0.5,2
 DL,Denico Autry,28,2014,77,82,74,77,75,82,5.9,3
 DL,Sheldon Day,24,2016,72,70,82,80,75,70,0.7,4
-DL,DeForest Buckner,24,2016,89,88,92,86,86,88,12.5,4
+DL,DeForest Buckner,24,2016,93,88,92,89,88,88,12.5,4
 DL,Al-Quadin Muhammad,23,2017,68,58,72,72,68,58,0.6,4
 DL,Justin Houston,29,2011,86,87,85,84,84,82,6.8,1
 DL,Kemoko Turay,23,2018,76,73,76,76,73,73,1.3,4
@@ -631,7 +630,8 @@ WR,Zach Pascal,24,2018,85,78,80,82,82,79,0.5,2
 END_PLAYERS
 Kansas City Chiefs, KC
 CB,Charvarius Ward,22,2018,79,73,83,80,78,74,0.6,3
-CB,Antonio Hamilton,25,2016,68,50,87,69,81,50,0.6,1
+CB,Antonio Hamilton,25,2016,68,50,87,69,71,50,0.6,1
+CB,Bashaud Breeland,31,2014,78,76,75,76,75,77,1.0,2
 CB,Rashad Fenton,25,2017,78,77,77,73,75,77,1.4,1
 CB,Alex Brown,22,2018,69,72,78,69,73,72,0.7,4
 S,Tyrann Mathieu,26,2013,95,90,92,90,90,90,7.0,3
@@ -723,7 +723,7 @@ WR,Courtland Sutton,23,2018,95,79,90,88,89,85,1.7,4
 WR,Dionte Spencer,25,2017,75,72,75,72,76,75,0.6,1
 END_PLAYERS
 Los Angeles Chargers, LAC
-CB,Michael Davis,23,2017,67,57,87,68,92,63,0.6,3
+CB,Michael Davis,23,2017,73,67,87,75,82,75,0.6,3
 CB,Desmond King,24,2017,87,86,90,82,87,83,0.7,4
 CB,Brandon Facyson,24,2018,75,74,81,73,75,71,0.6,3
 CB,Chris Harris,29,2011,88,87,86,85,90,83,6.5,5
@@ -856,12 +856,12 @@ RB,Tarik Cohen,23,2017,78,73,70,74,80,86,0.8,4
 RB,David Montgomery,23,2018,85,78,79,82,79,78,2.0,3
 RB,Ryan Nall,26,2016,70,81,70,76,77,54,1.1,1
 WR,Ben Braunecker,24,2016,67,63,86,70,83,65,0.5,3
-WR,Jimmy Graham,32,2010,80,82,80,80,83,78,10.0,3
+WR,Jimmy Graham,32,2010,80,82,80,82,83,78,10.0,3
 WR,Trey Burton,27,2014,79,77,75,82,80,79,4.0,4
 WR,Adam Shaheen,25,2017,76,73,86,78,76,69,1.5,4
 WR,Cordarrelle Patterson,27,2013,82,75,80,82,81,83,4.3,2
 WR,Riley Ridley,23,2019,80,76,78,78,77,72,0.7,1
-WR,Anthony Miller,24,2018,82,83,83,82,85,82,1.3,4
+WR,Anthony Miller,24,2018,85,83,83,82,84,82,1.3,4
 WR,Allen Robinson,25,2014,90,90,91,89,88,85,10.0,1
 WR,Javon Wims,24,2018,73,67,69,76,78,74,0.6,4
 END_PLAYERS
@@ -908,20 +908,20 @@ RB,Tyler Ervin,25,2016,78,73,80,76,80,72,0.7,4
 RB,Elijah Wellman,26,2018,68,70,72,70,69,70,0.5,2
 RB,Aaron Jones,24,2017,95,87,88,90,89,91,0.7,4
 RB,Jamaal Williams,23,2017,84,78,82,81,83,77,0.7,4
-WR,Jace Sternberger,23,2018,83,82,76,78,75,74,2.0,2
+WR,Jace Sternberger,23,2018,83,82,76,78,77,78,2.0,2
 WR,Marcedes Lewis,34,2006,79,80,80,79,76,74,2.1,1
 WR,Robert Tonyan,24,2018,76,67,75,70,74,75,0.4,1
 WR,Davante Adams,26,2014,99,94,92,95,97,96,10.5,3
-WR,Allen Lazard,25,2016,86,82,84,82,83,84,0.6,4
-WR,Darius Shepherd,25,2018,75,72,70,69,69,72,0.5,3
+WR,Allen Lazard,25,2016,86,82,84,82,83,82,0.6,4
+WR,Darius Shepherd,25,2018,75,72,70,69,72,76,0.5,3
 WR,Devin Funchess,24,2015,83,82,84,80,80,79,1.4,3
 WR,Jake Kumerow,26,2015,80,74,78,77,81,77,0.4,1
-WR,Equanimeous St. Brown,22,2018,79,74,83,79,76,72,0.6,2
-WR,Marquez Valdes-Scantling,24,2018,83,78,82,79,76,83,0.7,4
+WR,Equanimeous St. Brown,22,2018,79,74,80,79,76,72,0.6,2
+WR,Marquez Valdes-Scantling,24,2018,80,78,82,79,76,82,0.7,4
 END_PLAYERS
 Minnesota Vikings, MIN
 OL,Pat Elflein,24,2017,75,82,88,88,76,78,0.9,4
-OL,Garrett Bradbury,24,2019,83,77,86,89,79,79,0.7,4
+OL,Garrett Bradbury,24,2019,86,77,86,89,83,82,0.7,4
 OL,Brett Jones,27,2016,72,68,83,84,73,81,2.9,1
 CB,Mike Hughes,21,2018,83,83,94,75,89,75,2.5,4
 CB,Horace Richardson,25,2018,65,65,65,65,65,65,0.4,2
