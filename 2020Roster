@@ -913,23 +913,24 @@ OL,David Bakhtiari,27,2013,97,99,93,96,94,96,12.0,2
 OL,Billy Turner,27,2014,77,79,79,79,76,75,2.0,1
 OL,Cole Madison,25,2016,65,65,78,73,70,72,0.6,4
 QB,Tim Boyle,24,2018,72,60,77,76,76,60,0.6,3
+QB,Jordan Love,21,2020,86,80,78,78,79,80,1.5,4
 QB,Manny Wilkins,23,2017,72,66,86,75,76,70,1.2,4
-QB,Aaron Rodgers,34,2005,99,99,98,97,94,82,30.5,8
-RB,Dexter Williams,22,2018,79,68,76,78,74,75,0.6,2
+QB,Aaron Rodgers,34,2005,96,99,98,94,93,86,30.5,8
+RB,Dexter Williams,22,2018,79,68,76,76,74,75,0.6,2
 RB,Tyler Ervin,25,2016,78,73,80,76,80,72,0.7,4
 RB,Elijah Wellman,26,2018,68,70,72,70,69,70,0.5,2
-RB,Aaron Jones,24,2017,95,87,88,90,89,91,0.7,4
+RB,Aaron Jones,24,2017,95,89,88,92,92,92,0.7,4
 RB,Jamaal Williams,23,2017,84,78,82,81,83,77,0.7,4
-WR,Jace Sternberger,23,2018,83,82,76,78,77,78,2.0,2
+WR,Jace Sternberger,23,2018,83,82,76,78,78,78,2.0,2
 WR,Marcedes Lewis,34,2006,79,80,80,79,76,74,2.1,1
-WR,Robert Tonyan,24,2018,76,67,75,70,74,75,0.4,1
+WR,Robert Tonyan,24,2018,76,70,75,70,74,75,0.4,1
 WR,Davante Adams,26,2014,99,94,92,95,97,96,10.5,3
 WR,Allen Lazard,25,2016,86,82,84,82,83,82,0.6,4
 WR,Darius Shepherd,25,2018,75,72,70,69,72,76,0.5,3
-WR,Devin Funchess,24,2015,83,82,84,80,80,79,1.4,3
-WR,Jake Kumerow,26,2015,80,74,78,77,81,77,0.4,1
-WR,Equanimeous St. Brown,22,2018,79,74,80,79,76,72,0.6,2
-WR,Marquez Valdes-Scantling,24,2018,80,78,82,79,76,82,0.7,4
+WR,Devin Funchess,24,2015,82,82,82,80,80,79,1.4,3
+WR,Jake Kumerow,26,2015,80,76,78,77,80,77,0.4,1
+WR,Equanimeous St. Brown,22,2018,79,74,80,76,76,72,0.6,2
+WR,Marquez Valdes-Scantling,24,2018,84,78,80,79,79,82,0.7,4
 END_PLAYERS
 Minnesota Vikings, MIN
 CB,Mike Hughes,21,2018,83,83,94,79,85,79,2.5,4
@@ -1482,7 +1483,7 @@ END_PLAYERS
 Seattle Seahawks, SEA
 CB,Tre Flowers,23,2018,66,54,89,74,88,68,0.7,4
 CB,Quinton Dunbar,26,2015,79,77,90,79,91,76,1.9,3
-CB,Shaquill Griffin,23,2017,89,76,89,80,92,88,0.8,4
+CB,Shaquill Griffin,23,2017,90,76,89,84,88,88,0.8,4
 CB,Ugochukwu Amadi,25,2017,78,75,80,78,80,76,0.4,1
 CB,Brian Allen,25,2017,62,70,87,73,81,70,0.6,1
 S,Quandre Diggs,24,2017,79,75,81,77,84,75,0.5,1
@@ -1496,8 +1497,7 @@ DL,Poona Ford,23,2018,78,74,78,79,78,83,0.6,3
 DL,Bruce Irvin,31,2012,81,79,88,70,80,79,9.3,4
 DL,Nazair Jones,24,2017,75,75,81,87,72,75,0.8,4
 DL,Jarran Reed,26,2016,79,81,80,86,79,81,1.2,4
-DL,Shamar Stephen,27,2014,77,76,80,85,76,76,2.1,1
-RB,Tre Madden,25,2017,70,65,84,81,84,70,0.5,3
+DL,Shamar Stephen,27,2014,77,76,80,85,76,76,2.1,3
 K,Michael Dickson,22,2018,77,58,86,84,85,68,0.7,4
 K,Jason Myers,25,2010,81,63,84,97,87,59,2.0,1
 LB,Ben Burr-Kirven,24,2018,68,65,73,73,72,74,0.5,1
@@ -1527,7 +1527,7 @@ WR,Will Dissly,22,2018,79,77,87,78,77,78,0.8,3
 WR,Phillip Dorsett,25,2015,75,75,75,79,80,82,2.0,4
 WR,John Ursua,24,2017,71,57,89,82,91,58,0.8,4
 WR,Tyler Lockett,26,2015,86,84,88,85,84,85,9.8,3
-WR,DK Metcalf,22,2018,96,85,88,86,85,86,2.0,4
+WR,DK Metcalf,22,2018,96,85,88,86,86,86,2.0,4
 WR,David Moore,23,2017,74,72,78,76,76,74,0.5,2
 END_PLAYERS
 San Francisco 49ers, SF
@@ -1566,7 +1566,7 @@ OL,Tom Compton,24,2017,78,75,83,81,82,80,0.5,3
 OL,Mike McGlinchey,24,2018,93,85,86,87,86,79,4.6,4
 OL,Ross Reynolds,24,2011,76,76,74,70,70,70,0.9,1
 QB,C.J. Beathard,25,2017,70,73,92,88,78,56,0.9,4
-QB,Jimmy Garoppolo,27,2014,89,86,87,87,83,86,27.5,5
+QB,Jimmy Garoppolo,27,2014,89,86,87,86,85,86,27.5,5
 RB,Matt Breida,23,2017,76,73,87,75,93,76,0.6,3
 RB,Tevin Coleman,25,2015,86,83,85,83,87,82,0.8,4
 RB,Kyle Juszczyk,27,2013,84,84,89,84,82,68,5.3,4
@@ -1579,6 +1579,7 @@ WR,Jalen Hurd,23,2018,84,79,85,80,80,80,0.6,2
 WR,Kendrick Bourne,23,2017,75,71,76,76,77,78,0.6,3
 WR,Marquise Goodwin,28,2013,86,80,80,80,78,76,6.4,3
 WR,Deebo Samuel,22,2018,86,85,84,83,85,83,0.6,4
+WR,Brandon Aiyuk,21,2020,82,79,80,82,80,79,1.5,4
 WR,Dante Pettis,23,2018,76,74,80,76,77,75,1.6,4
 WR,Trent Taylor,24,2017,76,68,71,76,76,82,0.7,4
 END_PLAYERS
@@ -1615,21 +1616,21 @@ OL,Justin Murray,27,2014,65,70,75,76,74,68,0.6,1
 OL,Max Garcia,26,2018,65,51,74,77,75,71,0.6,2
 OL,Joshua Miles,23,2018,64,53,81,73,71,70,0.6,4
 OL,D.J. Humphries,25,2015,85,72,92,88,86,84,2.2,4
-QB,Kyler Murray,22,2019,97,82,88,89,84,86,2.5,4
+QB,Kyler Murray,22,2019,99,84,88,89,84,86,2.5,4
 QB,Brett Hundley,26,2016,72,72,80,83,77,20,4.0,2
-RB,Kenyan Drake,24,2016,87,84,83,83,85,83,0.8,4
+RB,Kenyan Drake,24,2016,87,84,83,84,85,84,0.8,4
 RB,Chase Edmonds,22,2018,71,78,85,71,80,77,0.7,4
 RB,D.J. Foster,25,2016,64,58,88,68,90,70,0.6,2
 WR,Darrell Daniels,27,2017,74,71,80,76,74,61,0.6,2
 WR,Maxx Williams,24,2015,83,75,77,78,80,80,1.0,4
 WR,Dan Arnold,28,2015,78,76,78,76,76,79,1.0,2
 WR,DeAndre Hopkins,26,2013,99,97,95,98,97,97,16.2,5
-WR,Larry Fitzgerald,35,2004,89,96,92,92,87,88,11.0,1
-WR,Hakeem Butler,23,2018,79,70,70,69,72,72,0.5,3
+WR,Larry Fitzgerald,35,2004,89,96,92,88,87,88,11.0,1
+WR,Hakeem Butler,23,2018,79,70,70,72,72,72,0.5,3
 WR,Christian Kirk,22,2018,89,82,90,84,84,85,1.5,4
 WR,KeeSean Johnson,24,2018,79,74,78,70,76,70,0.6,4
 WR,Trent Sherfield,22,2018,74,69,61,76,75,64,0.6,3
-WR,Andy Isabella,23,2019,84,79,80,77,80,79,0.8,4
+WR,Andy Isabella,23,2019,84,79,80,78,80,79,0.8,4
 END_PLAYERS
 
 
