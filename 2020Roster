@@ -328,6 +328,7 @@ END_PLAYERS
 Miami Dolphins, MIA
 CB,Xavien Howard,25,2016,94,89,90,89,91,89,1.5,3
 CB,Bobby McCain,25,2015,84,81,82,76,82,78,3.8,2
+CB,Noah Igbinoghene,21,2020,84,80,79,82,80,82,1.5,4
 CB,Byron Jones,26,2015,94,86,91,88,92,87,2.2,4
 CB,Cordrea Tankersley,25,2017,78,75,76,76,75,75,0.8,1
 CB,Jamal Perry,27,2014,69,65,79,65,73,65,1.4,2
@@ -669,20 +670,21 @@ OL,Mike Remmers,29,2012,76,87,84,80,74,79,6.0,5
 OL,Mitchell Schwartz,29,2012,89,88,88,86,86,88,6.6,5
 OL,Andrew Wylie,24,2018,67,60,68,82,69,72,0.5,2
 QB,Chad Henne,33,2008,67,76,82,87,75,20,3.4,2
-QB,Patrick Mahomes,23,2017,105,98,97,97,98,99,4.1,4
+QB,Patrick Mahomes,23,2017,105,98,97,99,98,99,4.1,4
 RB,DeAndre Washington,25,2016,78,76,82,71,80,78,0.7,4
 RB,Anthony Sherman,30,2011,79,83,87,78,78,78,2.0,1
+RB,Clyde Edwards-Helaire,21,2020,86,82,83,82,80,82,1.5,4
 RB,Elijah McGuire,27,2013,79,76,79,68,77,77,1.8,2
-RB,Damien Williams,26,2014,84,82,84,83,84,83,1.2,1
-RB,Darwin Thompson,23,2015,85,75,81,80,83,76,0.6,3
+RB,Damien Williams,26,2014,83,82,84,79,82,80,1.2,1
+RB,Darwin Thompson,23,2015,85,75,80,80,78,80,0.6,3
 WR,Deon Yelder,25,2016,75,71,80,76,75,69,0.6,1
-WR,Ricky Seals-Jones,23,2017,75,76,80,81,80,75,0.5,2
+WR,Ricky Seals-Jones,23,2017,75,76,80,78,78,75,0.5,2
 WR,Travis Kelce,29,2013,95,95,94,99,94,98,9.4,5
 WR,Tyreek Hill,24,2016,95,92,89,88,98,91,0.6,4
-WR,Mecole Hardman,23,2018,85,78,78,79,78,85,0.6,3
+WR,Mecole Hardman,23,2018,85,78,78,77,78,83,0.6,3
 WR,Byron Pringle,25,2018,74,69,68,68,69,66,0.6,3
-WR,Demarcus Robinson,24,2016,82,76,85,81,78,77,0.7,4
-WR,Sammy Watkins,25,2014,84,78,84,86,82,83,6.0,1
+WR,Demarcus Robinson,24,2016,80,76,80,77,78,80,0.7,4
+WR,Sammy Watkins,25,2014,82,78,84,80,82,83,6.0,1
 END_PLAYERS
 Denver Broncos, DEN
 CB,Isaac Yiadom,22,2018,70,67,92,77,90,71,0.8,4
@@ -915,7 +917,7 @@ OL,David Bakhtiari,27,2013,97,99,93,96,94,96,12.0,2
 OL,Billy Turner,27,2014,77,79,79,79,76,75,2.0,1
 OL,Cole Madison,25,2016,65,65,78,73,70,72,0.6,4
 QB,Tim Boyle,24,2018,72,60,77,76,76,60,0.6,3
-QB,Jordan Love,21,2020,86,80,78,78,79,80,1.5,4
+QB,Jordan Love,21,2020,86,80,78,82,79,80,1.5,5
 QB,Manny Wilkins,23,2017,72,66,86,75,76,70,1.2,4
 QB,Aaron Rodgers,34,2005,96,99,98,94,93,86,30.5,8
 RB,Dexter Williams,22,2018,79,68,76,76,74,75,0.6,2
@@ -935,13 +937,14 @@ WR,Equanimeous St. Brown,22,2018,79,74,80,76,76,72,0.6,2
 WR,Marquez Valdes-Scantling,24,2018,84,78,80,79,79,82,0.7,4
 END_PLAYERS
 Minnesota Vikings, MIN
-CB,Mike Hughes,21,2018,83,83,94,79,85,79,2.5,4
+CB,Mike Hughes,22,2018,83,83,86,80,84,82,2.5,4
+CB,Jeff Gladney,21,2020,83,84,82,80,78,82,1.5,4
 CB,Nate Meadors,21,2018,76,70,70,74,77,75,0.6,3
 CB,Holton Hill,22,2017,72,69,77,75,75,69,1.4,1
 CB,Kemon Hall,25,2018,65,65,65,65,65,65,0.4,2
-S,Anthony Harris,27,2015,87,84,87,82,87,84,0.7,1
-S,Harrison Smith,29,2012,97,96,91,88,89,96,10.3,5
-DL,Danielle Hunter,24,2015,95,86,86,89,88,88,10.4,5
+S,Anthony Harris,27,2015,90,84,87,84,87,84,0.7,1
+S,Harrison Smith,29,2012,92,93,91,90,89,92,10.3,5
+DL,Danielle Hunter,24,2015,95,89,89,92,92,90,10.4,5
 DL,Michael Pierce,26,2016,87,85,78,94,87,85,0.5,3
 DL,Anthony Zettel,26,2016,75,79,80,73,73,79,0.6,4
 DL,Hercules Mata'afa,23,2018,64,49,80,76,70,49,0.6,3
@@ -975,7 +978,7 @@ WR,Irv Smith Jr,23,2019,84,78,78,79,78,81,0.6,4
 WR,Kyle Rudolph,29,2011,87,85,85,86,84,85,7.3,5
 WR,Olabisi Johnson,24,2018,80,76,80,79,80,82,0.7,1
 WR,Tajae Sharpe,24,2016,79,74,80,78,76,77,0.7,3
-WR,Justin Jefferson,21,2020,86,83,83,82,79,84,1.5,4
+WR,Justin Jefferson,21,2020,86,83,83,82,82,84,1.5,4
 WR,Chad Beebe,24,2017,74,78,78,80,81,78,0.7,2
 WR,Adam Thielen,28,2014,90,87,87,90,90,85,4.8,4
 WR,Dillon Mitchell,25,2018,63,54,74,78,75,66,0.5,2
